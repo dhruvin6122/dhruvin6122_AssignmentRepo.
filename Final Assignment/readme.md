@@ -25,7 +25,7 @@ Here’s the `README.md` for your Ethereum Lottery DApp based on the given forma
 ### Installation Steps:
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/ethereum-lottery-dapp.git
+   git clone https://github.com/dhruvin6122/dhruvin6122_AssignmentRepo..git
    cd ethereum-lottery-dapp
    ```
 
