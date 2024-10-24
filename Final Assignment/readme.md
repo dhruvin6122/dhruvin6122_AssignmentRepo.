@@ -1,7 +1,3 @@
-Here’s the `README.md` for your Ethereum Lottery DApp based on the given format:
-
----
-
 # 🎲 Ethereum Lottery DApp
 
 ### This decentralized application (DApp) allows users to participate in a lottery on the Ethereum blockchain. Participants send Ether to enter the lottery, and the contract manager picks a winner at random. The winner can then claim the prize.
@@ -25,8 +21,7 @@ Here’s the `README.md` for your Ethereum Lottery DApp based on the given forma
 ### Installation Steps:
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/dhruvin6122/dhruvin6122_AssignmentRepo..git
-   cd ethereum-lottery-dapp
+   git clone https://github.com/dhruvin6122/dhruvin6122_AssignmentRepo./tree/main/Final%20Assignment
    ```
 
 2. **Install project dependencies:**
